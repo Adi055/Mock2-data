@@ -1,7 +1,47 @@
 {
   "dogs":[
-   
-
+   {
+    "id":1,
+    "breed":"Irie",
+    "age":"3",
+    "place":"Delhi",
+    "genderIp":"Female"
+   },
+   {
+    "id":2,
+    "breed":"Cherry",
+    "age":"3",
+    "place":"Visakhapatnam",
+    "genderIp":"Female"
+   },
+   {
+    "id":3,
+    "breed":"Tommy",
+    "age":"3",
+    "place":"Banglore",
+    "genderIp":"Male"
+   },
+   {
+    "id":4,
+    "breed":"Rebel",
+    "age":"3",
+    "place":"Mumbai",
+    "genderIp":"Male"
+   },
+   {
+    "id":5,
+    "breed":"Rocky",
+    "age":"3",
+    "place":"Pune",
+    "genderIp":"Male"
+   },
+   {
+    "id":6,
+    "breed":"Miley",
+    "age":"3",
+    "place":"Indore",
+    "genderIp":"Female"
+   }
   ]
 
 }
