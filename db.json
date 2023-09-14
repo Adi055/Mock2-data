@@ -10,7 +10,7 @@
    {
     "id":2,
     "breed":"Cherry",
-    "age":"3",
+    "age":"2",
     "place":"Visakhapatnam",
     "genderIp":"Female"
    },
@@ -24,21 +24,21 @@
    {
     "id":4,
     "breed":"Rebel",
-    "age":"3",
+    "age":"6",
     "place":"Mumbai",
     "genderIp":"Male"
    },
    {
     "id":5,
     "breed":"Rocky",
-    "age":"3",
+    "age":"5",
     "place":"Pune",
     "genderIp":"Male"
    },
    {
     "id":6,
     "breed":"Miley",
-    "age":"3",
+    "age":"4",
     "place":"Indore",
     "genderIp":"Female"
    }
