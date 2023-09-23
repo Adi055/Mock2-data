@@ -1,47 +1,33 @@
 {
-  "dogs":[
+  "products":[
    {
     "id":1,
-    "breed":"Irie",
-    "age":"3",
-    "place":"Delhi",
-    "genderIp":"Female"
+    "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "name":"Foldsack No. 1 Backpack",
+    "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "gender":"Male",
+    "category":"Suits",
+    "price":109.5
    },
    {
     "id":2,
-    "breed":"Cherry",
-    "age":"2",
-    "place":"Visakhapatnam",
-    "genderIp":"Female"
+    "image":"https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "name":"Mens Casual Slim Fit",
+    "description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "gender":"Male",
+    "category":"Shirts",
+    "price":15.99
    },
    {
     "id":3,
-    "breed":"Tommy",
-    "age":"3",
-    "place":"Banglore",
-    "genderIp":"Male"
-   },
-   {
-    "id":4,
-    "breed":"Rebel",
-    "age":"6",
-    "place":"Mumbai",
-    "genderIp":"Male"
-   },
-   {
-    "id":5,
-    "breed":"Rocky",
-    "age":"5",
-    "place":"Pune",
-    "genderIp":"Male"
-   },
-   {
-    "id":6,
-    "breed":"Miley",
-    "age":"4",
-    "place":"Indore",
-    "genderIp":"Female"
+    "image":"https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "name":"White Gold Plated Princess",
+    "description":"Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "gender":"Female",
+    "category":"Saree",
+    "price":999
    }
+  
   ]
 
 }
